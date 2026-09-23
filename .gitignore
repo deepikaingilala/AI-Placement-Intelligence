@@ -1,0 +1,19 @@
+# Java
+*.class
+target/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Environment / secrets
+.env
+application-local.properties
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
